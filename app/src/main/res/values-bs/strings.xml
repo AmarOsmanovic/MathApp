@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Matematička praksa</string>
+    <string name="welcome_message">Dobro došli u aplikaciju za sabiranje i oduzimanje!</string>
+    <string name="start_game">Pokreni igru</string>
+    <string name="about">O aplikaciji</string>
+    <string name="time_left">Preostalo %1$d sekundi</string>
+    <string name="tries_left">Preostalo pokušaja: %1$d</string>
+    <string name="game_over">Kraj igre!</string>
+    <string name="you_scored">Osvojili ste: %1$d bodova</string>
+    <string name="restart_game">Ponovno pokreni igru</string>
+    <string name="math_question">Koliko je %1$d %2$s %3$d?</string>
+    <string name="your_answer">Vaš odgovor</string>
+    <string name="submit">Pošalji</string>
+    <string name="share_text">Osvojio sam %1$d bodova u matematičkoj praksi!</string>
+    <string name="share">Podijeli</string>
+</resources>
