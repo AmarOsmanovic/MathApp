@@ -56,7 +56,7 @@ Aplikacija je razvijena koristeći MVVM (Model-View-ViewModel) arhitekturu. Ovak
 
 Model predstavlja logiku aplikacije i upravlja podacima. U MathApp-u, model uključuje logiku za generiranje matematičkih problema, provjeru odgovora i upravljanje korisničkim rezultatima i pokušajima. Model je dizajniran da bude nezavisan od slojeva View i ViewModel, omogućavajući lakše testiranje i ponovnu upotrebu koda.
 
-#### Pogled
+#### View
 
 View je odgovoran za prikazivanje podataka korisniku i odgovaranje na interakcije korisnika. U MathApp-u, View je implementiran pomoću Jetpack Compose, modernog alata za kreiranje korisničkih interfejsa u Android aplikacijama. Jetpack Compose pruža deklarativni pristup kreiranju UI komponenti, čineći kod čistijim i intuitivnijim.
 
@@ -100,9 +100,9 @@ Jetpack Compose je moderan komplet alata za kreiranje korisnič
 
 kih interfejsa u Android aplikacijama koristeći Kotlin. Pruža jednostavniji i intuitivniji način za kreiranje UI komponenti kroz deklarativni pristup. Jetpack Compose značajno pojednostavljuje proces razvoja korisničkog interfejsa, omogućavajući programerima da pišu manje koda i brže razvijaju funkcionalnost.
 
-#### Kontekst
+#### Context
 
-Kontekst je klasa koja omogućava pristup resursima i uslugama Android sistema. Kontekst se koristi za pristup resursima (kao što su stringovi, slike i stilovi), bazama podataka, dijeljenje podataka između aktivnosti i pokretanje novih aktivnosti. Postoje različite vrste konteksta, uključujući kontekst aktivnosti i kontekst aplikacije, koji se koriste ovisno o potrebama aplikacije.
+Context je klasa koja omogućava pristup resursima i uslugama Android sistema. Kontekst se koristi za pristup resursima (kao što su stringovi, slike i stilovi), bazama podataka, dijeljenje podataka između aktivnosti i pokretanje novih aktivnosti. Postoje različite vrste konteksta, uključujući kontekst aktivnosti i kontekst aplikacije, koji se koriste ovisno o potrebama aplikacije.
 
 ### Zaključak
 
@@ -117,3 +117,16 @@ MVVM arhitektura osigurava modularnost i održivost koda, dok korištenje Jetpac
 MathApp ne samo da pomaže korisnicima da poboljšaju svoje matematičke vještine, već ih i motivira kroz interaktivne i izazovne zadatke, te mogućnost dijeljenja rezultata s prijateljima. Ova aplikacija predstavlja korak naprijed u obrazovnim tehnologijama, nudeći korisnicima alat koji je istovremeno edukativan i zabavan.
 
 Dokumentacija MathApp-a pruža sve potrebne informacije za razumijevanje i dalji razvoj aplikacije. Detaljno opisuje funkcionalnosti, arhitekturu, komponente i opće koncepte Android framework-a, omogućavajući programerima da lako razumiju i rade na unapređenju aplikacije. Ovaj dokument je ključan resurs za sve koji žele doprinijeti razvoju MathApp-a ili naučiti više o razvoju Android aplikacija koristeći moderne tehnologije i najbolje prakse.
+
+
+
+
+![Screenshot_20240613-141135_Math Practice](https://github.com/AmarOsmanovic/MathApp/assets/62714108/e724b349-1f98-4f2e-93b3-60f1d67d9934)
+![Screenshot_20240613-141109_Math Practice](https://github.com/AmarOsmanovic/MathApp/assets/62714108/c89d1f7b-4af7-4a42-a8ac-9d3b77ff663f)
+![Screenshot_20240613-141301_Math Practice](https://github.com/AmarOsmanovic/MathApp/assets/62714108/e3588d6d-16d6-4769-9133-669fb965cf75)
+![Screenshot_20240613-141054_Math Practice](https://github.com/AmarOsmanovic/MathApp/assets/62714108/3dc30850-6e0a-4d78-8b9c-f2c08bc76dd1)
+![Screenshot_20240613-141144_Math Practice](https://github.com/AmarOsmanovic/MathApp/assets/62714108/a50d8b89-3067-4624-a990-b3dee4eeaf11)
+![Screenshot_20240613-141249_Math Practice](https://github.com/AmarOsmanovic/MathApp/assets/62714108/04c0b309-5872-49d1-b980-015f990dd3cd)
+![Screenshot_20240613-141126_Math Practice](https://github.com/AmarOsmanovic/MathApp/assets/62714108/c53c6f5e-f1ba-46a6-a38d-e40b9de55a25)
+
+
